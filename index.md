@@ -17,8 +17,8 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 
 | Degree | Major | University | Year |
 | :------ | :-------------- | :---------- | :----: |
-| <u>Ph.D.</u> | **Chinese Philology** | Fudan University <br> (Shanghai, China) | 2012 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2008 |
-| <u>M.A.</u> | **Chinese Language and Literature** | Ewha Womans University <br> (Seoul, Korea) | 2008 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2005 |
+| <u>Ph.D.</u> | **Chinese Philology** <br> <span style="color: gray; font-size: 0.85em;">(Dissertation: A Specialized Study on the Phonology of Mandarin in the Ming and Qing Dynasties)</span> | Fudan University <br> (Shanghai, China) | 2012 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2008 |
+| <u>M.A.</u> | **Chinese Language and Literature** <br> <span style="color: gray; font-size: 0.85em;">(Dissertation: A Study on the Chinese Pronunciation System of the Gyujang Jeonun)</span> | Ewha Womans University <br> (Seoul, Korea) | 2008 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2005 |
 | <u>B.A.</u> | **Chinese Language and Literature** <br> <span style="color: gray; font-size: 0.85em;">Magna cum laude</span> | Ewha Womans University <br> (Seoul, Korea) | 2005 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2001 |
 
 ### Non-Degree Education
