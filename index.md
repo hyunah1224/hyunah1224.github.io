@@ -66,19 +66,14 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 9. ![Unlisted Badge](https://img.shields.io/badge/미등재-000000?style=flat&logoColor=white) 지해인. (2024). **이상 단편소설 기초·감각 데이터셋 [Yi Sang Short Story Basic·Sense Dataset]**. <i>디지털인문학, 1</i>(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.23287/KJDH.2024.1.2.4</a>
 10. ![KCI Badge](https://img.shields.io/badge/KCI-0355A3?style=flat&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEHBgkIBwEKCgkLDRYPDQwMDRsUFRAWIBEiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGislHyU3Nys3Nzc3Nys3NzcrNzcrNzc3Nzc3NzcrNys3Kzc3Nys3NzcrKys3Nys3Kzc3KzcrN//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBwT/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMRBAYhABJRBRMWQXEy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwB1FZfvWX1RYwcY7ThBMwVBGI5zGpx1XxdKiFXm2457CU41rt+4rmonVNVF+hNP2nYCwTtWW4AEZEmJ+aFqqm2ag7/EUtrP62nBPOlK1xkKqz//2Q==&logoColor=white) [비정규논문/추천석사학위논문] 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]**. <i>상허학보, 72</i>, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
 
-### Theses
-1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
-1. 지해인. (2018). **식물 SNARE와 그 기능 [Plant SNAREs and their Functions]** [학사학위논문, 건국대학교].
-1. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토 [Reconsidering the Status of the Korean Apprehensive Mood as a Sentence-Final Particle]** [학사학위논문, 건국대학교].
 
 
 ### Datasets and Models
-1. **KNoTE (Korean Novel TEI Encoded)**
-   - **KNoTE dataset v5**: Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., Lee, J.-. yeol ., Jo, G., Lim, I., Ismayilov, O., & Kim, B. (2026). KNoTE dataset [Data set]. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.21218299" target="_blank">10.5281/zenodo.21218299</a>
-1. **KPoEM (Korean Poetry Emotion Mapping)**
-   - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. In KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry (Vol. 29, Number 1, pp. 161–206). Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
-   - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
-1. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
+
+1. **Asian Languages DB**
+   - **Asian Languages DB**: Khoo, H. **A search database for phonological information in Chinese-language textbooks and dictionaries compiled in Korea, China, and Japan** [Database]. <a href="https://www.asialang.org" target="_blank">https://www.asialang.org</a>
+2. **SINOLOGY**
+   - **SINOLOGY**: Khoo, H., Shin, W., & Roh, H. **A search database for phonological information in Chinese-language textbooks and dictionaries compiled by Westerners** [Database]. <a href="https://sinology.mycafe24.com" target="_blank">https://sinology.mycafe24.com</a>
 
 
 ## Projects
@@ -101,6 +96,7 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 
 ## Presentations (2021-present)
+
 - Khoo, H. (2026.06). **Building an Integrated Phonological Search Database Using Modern Korean, Chinese, and Japanese Chinese-Language Textbooks and Dictionaries, and Its Academic Significance**. 2026 Spring Conference of the Korean Association of Chinese Language and Literature, Ewha Womans University, Republic of Korea.
 - Khoo, H., Shin, W., Roh, H., & Lee, K. (2026.05). **The Production and Dissemination of Chinese Language Knowledge Seen Through Data—Western Authors of Chinese Language Textbooks, Publishing, and Regional Networks**. 2026 The Spring Conference of the Korean Association of Chinese Language and Literature, Dongguk University, Republic of Korea.
 - Khoo, H. (2025.07). **The Integration of Traditional Chinese Philology and Western-style Language Textbooks: A Study on Chinese Character Learning Strategies in Herbert Giles' Chinese Classics: Synoptical Studies in Chinese Character**. 2025 The 7th International Conference on Cross-Cultural Chinese Character Studies, Hong Kong Shue Yan University, China.
@@ -117,7 +113,6 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 
 ## Invitied colloquia
-
 
 - (2024.07). **"Chinese Historical Phonology"** [Invited talk]. Chinese Language School, Korea Association of Chinese Linguistics, Republic of Korea.
 - (2023.07). **"Examples of building semantic data using Joseon Dynasty Chinese mechanics books and suggestions for further development"** [Invited talk]. Yonsei Institute of Sinology, Republic of Korea.
