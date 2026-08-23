@@ -32,15 +32,11 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 
 ## Work Experience
 
-- **강사(Instructor)**, 고려대학교(Korea University) ; Sept. 2026 - Present
-- **[연구위원(Researcher)](https://erasmus.imweb.me/8dgks3k7)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
-- **[편집간사(Editorial Assistant)](https://accesson.kr/kjdh/menu/7554/7557/)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
-- **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Present
-- **[연구원(Researcher)](https://digitalhumanities.kr/members/Haein.html)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
-- **[객원연구원(Guest Researcher)](https://www.rug.nl/staff/h.ji/?lang=en)**, 흐로닝언 대학교(University of Groningen) ; Mar. 2026 - Aug. 2026
-- **DH2026 기술스태프(DH2026 Technical staff)**, ADHO(Alliance of Digital Humanities Organizations) ; Jul. 2026
-- **편집자(Editor)**, ㈜이감(Yigam Co., Ltd.) ; Jan. 2019 - Mar. 2021
-- **정비병(Mechanic)**, 대한민국 육군(Republic of Korea Army) ; Jan. 2014 - Oct. 2015
+- **Professor**, Hanyang University ; Sept. 2026 - Present
+- **Professor**, Yong In University ; Mar. 2013 - Aug. 2026
+- **Lecturer**, Dankook University ; Mar. 2018 - Aug. 2018, Sep. 2019 - Dec. 2019
+- **Lecturer**, Ewha Womans University ; Mar. 2012 - Dec. 2012
+- **Lecturer**, Korean Language Institute, Yonsei University ; Mar. 2008 - Aug. 2008
 
 
 ## Publications
