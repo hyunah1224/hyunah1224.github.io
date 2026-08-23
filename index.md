@@ -41,7 +41,6 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 
 ## Publications
 
-단행본, 학술논문, 학위논문, eBook, 데이터셋과 모델
 
 ### Books
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2026). **관음영과(觀音靈課): 조선의 불교 점술**.
@@ -72,13 +71,6 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 1. 지해인. (2018). **식물 SNARE와 그 기능 [Plant SNAREs and their Functions]** [학사학위논문, 건국대학교].
 1. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토 [Reconsidering the Status of the Korean Apprehensive Mood as a Sentence-Final Particle]** [학사학위논문, 건국대학교].
 
-### eBooks
-1. 김병준, **지해인**, 김가연, 박선영, 이하경, 이병주, & 정채연. (2026). **AI를 활용한 한국 근대소설 TEI 태깅 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/19071" target="_blank">book/19071</a> <br> <i class="fab fa-youtube"></i> <a href="https://youtube.com/playlist?list=PLGbGeqRyCIoc0O2XTBzw2OWBG1nMsJSAX&si=eumlpdm92LEsWbfb" target="_blank">[DH 교육] AI를 활용한 한국 근대소설 TEI 태깅</a>
-1. 김병준, 조경민, **지해인**, 임이로, & 구슬. (2025). **고급 자연어 처리 활용 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/17854" target="_blank">book/17854</a> <br> <i class="fab fa-youtube"></i> <a href="https://youtube.com/playlist?list=PLGbGeqRyCIoe9UFC_CLglqjacLccf8L6H" target="_blank">[DH 교육] 고급 자연어 처리 활용</a>
-1. 김바로, 정송이, 이재열, 신은선, **지해인**, 김서윤, 조하영, & 임이로. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
-1. 김바로, 전가람, 신은선, 이재열, 정송이, **지해인**, 이주희, 김서윤, 조하영, 잔싱롱, 정경진, & 채자문. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
-1. 김바로, 전가람, 이효림, **지해인**, 이주희, 구현회, & 윤종훈. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
-1. 김바로, 전가람, **지해인**, 이주희, 구현회, 윤종훈, & 한태빈. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 ### Datasets and Models
 1. **KNoTE (Korean Novel TEI Encoded)**
@@ -87,11 +79,6 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
    - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. In KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry (Vol. 29, Number 1, pp. 161–206). Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
    - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
 1. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
-
-
-## Exhibitions
-
-- **실담범자의 향기展**, 국회의사당 국회의원회관 2층, 서울, 대한민국 ; Nov. 18-20, 2025 <br> <i class="fas fa-bell"></i> <a href="/assets/img/personal/fragrance_of_siddham.png" target="_blank">Invitation</a> <i class="fas fa-image"></i> <a href="/assets/poster/fragrance_of_siddham_poster.jpg" target="_blank">Poster</a> <i class="fas fa-newspaper"></i> <a href="https://www.kbulgyonews.com/news/articleView.html?idxno=44150" target="_blank">News</a>
 
 
 ## Projects
@@ -113,7 +100,7 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 - 국립국어원: **2022년 이야기 완성 평가 말뭉치 연구 분석 사업(2022 Research and Analysis of Story Cloze Task and Evaluation)** ; 보조연구원(연구책임자: 송상헌) ; May. 2022 - Dec. 2022
 
 
-## Talks/Presentations
+## Presentations
 
 - Ji, H. (2026.07.29). **Reading the Singularity Myth Through Word2Vec: Focusing on the 'The Singularity is Near' Minor Gallery on Dcinside**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/DH2026_Main_Conference_Program.pdf" target="_blank">Program</a>
 - Kim, B., **Ji, H.**, Kim, G., Jeong, C., Lee, H., & Park, S. (2026.07.28). **Building a Korean Literature TEI/XML Database: From Data Acquisition to AI-Enhanced Reading**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/DH2026_Main_Conference_Program.pdf" target="_blank">Program</a>
@@ -137,13 +124,13 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 
 ## Awards and Honors
 
-- **2026년도 한국학대학원 해외교류 프로그램(AKS International Exchange Program)**, 한국학중앙연구원(The Academy of Korean Studies) ; Mar. 2026 - Aug. 2026
-- **강의평가 우수교원(Excellence in Teaching Award)**, 한국전통문화대학교(Korea National University of Heritage) ; 2025
-- **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; Ph.D./1-2
-- **연구장학금(Research Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./3-4
-- **성적우수상(Academic Excellence Award)**, 한국방송통신대학교(Korea National Open Uiversity) ; Aug. 2023
-- **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./1-2
-- **성적우수 장학금(Honor Scholarship)**, 한국방송통신대학교(Korea National Open Uiversity) ; Spring, 2022
+- **Best Article Award**, Korean Association for Chinese Studies ; May 2025
+- **Good books to read Award**, The National Read-Aloud Movement Headquarters ; Feb. 2024
+- **Academic Excellence Award**, Yong In University ; Jun. 2019
+- **Best Article Award**, Korea Association of Chinese Language and Literature ; Nov. 2017
+- **Best Lecturer Award**, Yong In University ; May 2015
+- **Award for Academic Excellence, Korean Language Teacher Training Program**, Yonsei University ; Feb. 2008
+- **Chinese Government Scholarship**, Chinese Government ; Aug. 2008 - Feb. 2012
 
 
 ## Memberships
@@ -158,39 +145,9 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 - **학생회원(Student Member)** ; 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; 2024 - Present
 
 
-## Teaching Experience
-- COLA173-16 **디지털인문학응용(Application of Digital Humanities)**, 강사(Instructor), 고려대학교(Korea University) ; Sept. - Dec. 2026
-- LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2026
-- **[트랙 2] 분석 트랙 ≪인공지능을 활용한 인문 텍스트 분석과 실습 - 전처리부터 시각화까지≫**, 수업조교(TA), 2026 디지털인문학 겨울학교(2026 Digital Humanities Winter School) ; Feb. 04-05, 2026
-- LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2025
-- SLA23501 **디지털 인문학 입문(Introduction to Digital Humanities)**, 특별강사(Special Instructor), 울산과학기술원(Ulsan National Institute of Science and Technology, UNIST) ; Mar. - Jun. 2025
-- **해커톤 세션(Hackathon session)**, 수업조교(TA), 2025 디지털인문학 겨울학교(2025 Digital Humanities Winter School) ; Jan. 20-24, 2025
-- LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2024
-- 104.325 **유가철학 창의·인성 코너스톤 KCC(Confucian Philosophy: Creativity and Character Cornerstone KCC)**, 수업조교(TA), 강릉원주대학교(Gangneung-Wonju National University) ; Nov. 23, 2022
-- **문서에서 발견하는 옛 사람들 이야기(Stories of Ancient People Discovered through Documents)**, 교육조교(TA), 경기꿈의대학(Gyeonggi Dream School) ; Apr. - Jun. 2022
-
-
-## Skills
-
-| Knowledge area               | Skills                                                       |
-| ---------------------------- | ------------------------------------------------------------ |
-| <u>Programming languages</u> | Python, R & JavaScript                                        |
-| <u>Cloud services</u>        | AWS(Amazon Web Services) & Microsoft Azure                    |
-| <u>Data design</u>           | XML(TEI), RDB(MSSQL·MySQL), RDF(Protege) & Labeled Data      |
-| <u>Data analysis</u>         | 데이터 분석 라이브러리(Pandas·NumPy) & 머신러닝 라이브러리(TensorFlow·PyTorch) |
-| <u>Data visualization</u>    | 네트워크 시각화(Gephi) & 지리 공간 데이터 시각화(Folium·Cesium) |
-| <u>VR contents creation</u>  | 드론(DJI Mavic 2 Pro·DJI Phantom 4 Pro), Stitching(PTGui) & VTour(Krpano) |
-
 ### Certs
-- **생물분류기사(동물)(Engineer Biology Classification - animal)**, 한국산업인력공단(Human Resources Development Service of Korea) ; Dec. 2025
-- **Microsoft Azure Data Fundamentals**, Microsoft ; June 2023
-- **Microsoft Azure AI Fundamentals**, Microsoft ; June 2023
-- **Microsoft Azure Fundamentals**, Microsoft ; June 2023
-- **무인동력비행장치 4종(무인멀티콥터)**, 한국교통안전공단(Korea Transportation Safety Authority) ; Sept. 2022
-- **컴퓨터활용능력2급(Computer Specialist in Spreadsheet & Database Level-2)**, 대한상공회의소(Korea Chamber of Commerce and Industry) ; Oct. 2018
-- **ITQ(Information Technology Qualification) 아래한글 A등급**, 한국생산성본부(Korea Productivity Center, KPC) ; Mar. 2005
+- **Academic Appointments**, Ewha Womans University ; Aug. 2005
 
 
-## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
-<iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
