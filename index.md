@@ -145,8 +145,8 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 - **학생회원(Student Member)** ; 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; 2024 - Present
 
 
-### Certs
-- **Academic Appointments**, Ewha Womans University ; Aug. 2005
+### Certificates
+- **Secondary School Teacher's Certificate (Grade II)**, Ewha Womans University ; Aug. 2005
 
 
 
