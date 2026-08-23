@@ -30,7 +30,7 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
   - Award for Academic Excellence, Korean Language Teacher Training Program
 
 
-## Work Experience
+## Academic Appointments
 
 - **Professor**, Hanyang University ; Sept. 2026 - Present
 - **Professor**, Yong In University ; Mar. 2013 - Aug. 2026
