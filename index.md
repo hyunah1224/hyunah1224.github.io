@@ -41,13 +41,18 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 ## Publications
 
-
 ### Books
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2026). **관음영과(觀音靈課): 조선의 불교 점술**.
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Forthcoming]** 김희진, 오동석, 김바로, 김성은, & **지해인**. (2026). **디지털인문학의 길잡이**.
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Forthcoming]** 김바로, 전가람, **지해인**, 이주희, 구현회, & 윤종훈. (2026). **시각적 인문학**. 한국학중앙연구원출판부.
-1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Forthcoming]** Khoo, H., & Lee, O. **'Manchu' language in Korea's Spoken Chinese Textbooks from the Japanese Colonization Era**. In *Korea as Other* (eds. by Steve Choe & Sanghwan Seong), London: Routledge.
+2. Khoo, H. (2024). **Digitally building Han-Dam-Gwan-Hwa and its modern translation**. Youcrack.
+3. Khoo, H. (2024). **Shifting Knowledge Power and East Asian Language Systems**. Bogosa.
+4. Khoo, H. (2024). **Asia in Age of Cultural convergence 1**. Youcrack.
+5. Khoo, H. (2023). **Know the Chinese language (to understand the relationship between Chinese and Chinese people)**. Sisa books.
+6. Khoo, H. (2023). **Digitally Reviving the World of Modern Chinese: Modern Translation and Semantic Data Construction of a Joseon Dynasty Chinese textbook**. Youcrack.
+7. Khoo, H. (2023). **Chinese fairy tales by Herbert Allen Giles**. Jungin Press.
+8. Jeong, Y., Choi, J., & Khoo, H. (2014). **New style Chinese 2**. Dongyang Books.
+9. Jeong, Y., Choi, J., & Khoo, H. (2013). **New style Chinese 1**. Dongyang Books.
 
+    
 ### Articles
 <!-- 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.-->
 <!-- 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2027). **한국 현대 이교(異敎) 신앙과 그 실천: 사례 연구를 중심으로**.-->
