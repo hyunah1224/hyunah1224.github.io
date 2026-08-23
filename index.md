@@ -17,7 +17,7 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 
 | Degree | Major | University | Year |
 | :------ | :-------------- | :---------- | :----: |
-| <u>Ph.D. <br> Student</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2025 |
+| <u>Ph.D.</u> | **Chinese Philology** | Fudan University <br> Shanghai, China | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2025 |
 | <u>M.A. <br> Student</u> | **실천문화교양학(세부전공: 지성사)** <br> **(Liberal Arts for Civic Engagement, Specializing in Intellectual History)** | 한국방송통신대학교 <br> (Korea National Open University) | Present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2026 |
 | <u>M.A.</u> | **인문정보학** <br> **(Cultural Informatics)** | 한국학중앙연구원 한국학대학원 <br> (The Academy of Korean Studies) | 2024 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2022 |
 | <u>B.S.</u> | **컴퓨터과학** <br> **(Computer Science)**| 한국방송통신대학교 <br> (Korea National Open University) | 2023 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2019 |
