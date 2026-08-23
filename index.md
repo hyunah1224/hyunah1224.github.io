@@ -10,11 +10,7 @@ title: Curriculum Vitae
 
 <span class="hashtag-text">#ChinesePhonology</span> <span class="hashtag-text">#HistoryOfChineseLanguageEducation</span> <span class="hashtag-text">#DigitalHumanities</span> <span class="hashtag-text">#ChineseFolklore</span> 
 
-안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다. 한국 근대 문학, 고전 문학(한국 신화), 주로 인터넷을 떠도는 (서사 형식의 이데올로기로서) 현대적 신화들, 즉 '서사'에 주된 관심을 두고 있습니다.
-
-연구원·강사로서 지속적인 연구·강의 경력을 쌓고 있으며, 인문 데이터 설계·구축·분석 등을 주제로 한 강의·워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
-
-그 외, 실담범자 명인 법헌 스님께 실담전밀계(悉曇傳密戒)를 받은 전수자로서, **실담범자(悉曇梵字) 기반의 불교예술** 활동을 하고 있는 작가이기도 합니다.
+I am Hyunah Khoo, a researcher in historical phonology. My research focuses on Chinese rhyme books (yunshu), rhyme tables (yuntu), and character dictionaries compiled in China during the early modern and modern periods, as well as Chinese-language textbooks and dictionaries created by Korean, Japanese, and Western authors. I study the phonological features found in these materials from both synchronic and diachronic perspectives, and I have also been building databases that allow users to search the phonological information contained in them. Beyond this, I am interested in how East Asia was perceived in East Asian studies materials compiled by Westerners—such as travelogues, newspapers, and magazines—and how these perceptions are reflected in their work.
 
 
 ## Education
