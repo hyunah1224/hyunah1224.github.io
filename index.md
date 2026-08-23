@@ -135,13 +135,13 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 ## Memberships and activities in professional associations
 
-- **학술이사(Director of Academic Affairs)** ; 한국중국인문학회(The Society for Chinese Humanities in Korea) ; Mar. 2026 - Present
-- **회계이사(Treasurer)** ; 한국중국어교육학회(Korea Association of Chinese Language Education) ; Mar. 2025 - Present
-- **학술이사(Director of Academic Affairs)** ; 중국어문학회(Association of Chinese Language & Literature) ; Mar. 2025 - Present
-- **학술이사(Director of Academic Affairs)** ; 한국중국언어학회(Korea Association of Chinese Linguistics) ; Mar. 2024 - Present
-- **총무이사(Secretary General)** ; 한국음성음운론학회(Association for Phonetics and Phonology) ; May 2017 - Present
-- **편집이사(Editorial Director)** ; 한국중국언어학회(Korea Association of Chinese Linguistics) ; Apr. 2022 - Mar. 2024
-- **편집이사(Editorial Director)** ; 중국어문학회(Association of Chinese Language & Literature) ; Oct. 2020 - Sep. 2022
+- **Director of Academic Affairs** ; The Society for Chinese Humanities in Korea ; Mar. 2026 - Present
+- **Treasurer** ; Korea Association of Chinese Language Education ; Mar. 2025 - Present
+- **Director of Academic Affairs** ; Association of Chinese Language & Literature ; Mar. 2025 - Present
+- **Director of Academic Affairs** ; Korea Association of Chinese Linguistics ; Mar. 2024 - Present
+- **Secretary General** ; Association for Phonetics and Phonology ; May 2017 - Present
+- **Editorial Director** ; Korea Association of Chinese Linguistics ; Apr. 2022 - Mar. 2024
+- **Editorial Director** ; Association of Chinese Language & Literature ; Oct. 2020 - Sep. 2022
 
 
 ### Certificates
