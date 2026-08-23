@@ -122,6 +122,15 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 - 지해인. (2023.01.13). **KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상 [The Emotion of ‘Realization’ and Its Reception in Yi Sang’s Texts through KOTE]** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/2023_dhwntrsch.jpg" target="_blank">Program</a>
 
 
+## Invitied colloquia
+
+
+- (2024.07). **"Chinese Historical Phonology"** [Invited talk]. Chinese Language School, Korea Association of Chinese Linguistics, Republic of Korea.
+- (2023.07). **"Examples of building semantic data using Joseon Dynasty Chinese mechanics books and suggestions for further development"** [Invited talk]. Yonsei Institute of Sinology, Republic of Korea.
+- (2021.06). **"Korea's Spoken Chinese Textbooks from the Japanese Colonial Era: A Critical Review of the 'Manchu' Textbooks"** [Invited talk]. Hanyang University, Republic of Korea.
+- (2018.06). **"Chinese Historical Phonology"** [Invited talk]. Chinese Language School, Korea Association of Chinese Linguistics, Kyunghee University, Republic of Korea.
+
+
 ## Awards and Honors
 
 - **Best Article Award**, Korean Association for Chinese Studies ; May 2025
