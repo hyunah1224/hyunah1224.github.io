@@ -133,16 +133,15 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 - **Chinese Government Scholarship**, Chinese Government ; Aug. 2008 - Feb. 2012
 
 
-## Memberships
+## Memberships and activities in professional associations
 
-- **일반회원(Member)** ; 한국종교학회(Korean Association for Religious Studies) ; Oct. 2025 - Present
-- **회원(Member)** ; 한국실담범자협회(韓國悉曇梵字協會) ; Jun. 2025 - Present
-- **학생회원(Student Member)** ; 한국곤충학회(The Entomological Society of Korea) ; Jun. 2025 - Present
-- **일반회원(Member)** ; 한국성소수자연구회(Korean Association for LGBTQIA Studies) ; Jun. 2025 - Present
-- **학생회원(Student Member)** ; International Society for Contemporary Legend Research (ISCLR) ; Jun. 2025 - Present
-- **개인회원(Private Member)** ; 지식공유연대(정식 명칭: 새로운 학문 생산 체제와 ‘지식공유’를 위한 학술 단체와 연구자 연대)(Knowledge Sharing Alliance) ; Apr. 2025 - Present
-- **후원회원(Supporting Member)** ; 전기가오리(Philo-electro-ray) ; Oct. 2024 - Present
-- **학생회원(Student Member)** ; 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; 2024 - Present
+- **학술이사(Director of Academic Affairs)** ; 한국중국인문학회(The Society for Chinese Humanities in Korea) ; Mar. 2026 - Present
+- **회계이사(Treasurer)** ; 한국중국어교육학회(Korea Association of Chinese Language Education) ; Mar. 2025 - Present
+- **학술이사(Director of Academic Affairs)** ; 중국어문학회(Association of Chinese Language & Literature) ; Mar. 2025 - Present
+- **학술이사(Director of Academic Affairs)** ; 한국중국언어학회(Korea Association of Chinese Linguistics) ; Mar. 2024 - Present
+- **총무이사(Secretary General)** ; 한국음성음운론학회(Association for Phonetics and Phonology) ; May 2017 - Present
+- **편집이사(Editorial Director)** ; 한국중국언어학회(Korea Association of Chinese Linguistics) ; Apr. 2022 - Mar. 2024
+- **편집이사(Editorial Director)** ; 중국어문학회(Association of Chinese Language & Literature) ; Oct. 2020 - Sep. 2022
 
 
 ### Certificates
