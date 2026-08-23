@@ -24,7 +24,7 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 ### Non-Degree Education
 - **2026 DHEAC: International Forum on Digital Humanities for East Asian Classics (Workshop and Conference)**, Ewha Womans University ; Jul. 2026
 - **2026 Digital Humanities (DH) Winter School**, Pusan National University ; Feb. 2026
-- **2026 2026 Workshop: Building and Utilizing a Knowledge Base of East Asian Texts**, Sungkyunkwan University ; Jan. 2026
+- **2026 Workshop: Building and Utilizing a Knowledge Base of East Asian Texts**, Sungkyunkwan University ; Jan. 2026
 - **2025 Digital Humanities (DH) Winter School**, National Library of Korea ; Feb. 2025
 - **Korean Language Teacher Certification Program**, Yonsei University ; Feb. 2008
   - Award for Academic Excellence, Korean Language Teacher Training Program
@@ -101,18 +101,15 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 
 ## Presentations (2021-present)
-
-## Presentations (2021-present)
-
-- Khoo, H., Shin, W., Roh, H., & Lee, K. (2026.06). **Building an Integrated Phonological Search Database Using Modern Korean, Chinese, and Japanese Chinese-Language Textbooks and Dictionaries, and Its Academic Significance**. 2026 Spring Conference of the Korean Association of Chinese Language and Literature, Ewha Womans University, Republic of Korea.
-- Khoo, H. (2026.05). **The Production and Dissemination of Chinese Language Knowledge Seen Through Data—Western Authors of Chinese Language Textbooks, Publishing, and Regional Networks**. 2026 The Spring Conference of the Korean Association of Chinese Language and Literature, Dongguk University, Republic of Korea.
+- Khoo, H. (2026.06). **Building an Integrated Phonological Search Database Using Modern Korean, Chinese, and Japanese Chinese-Language Textbooks and Dictionaries, and Its Academic Significance**. 2026 Spring Conference of the Korean Association of Chinese Language and Literature, Ewha Womans University, Republic of Korea.
+- Khoo, H., Shin, W., Roh, H., & Lee, K. (2026.05). **The Production and Dissemination of Chinese Language Knowledge Seen Through Data—Western Authors of Chinese Language Textbooks, Publishing, and Regional Networks**. 2026 The Spring Conference of the Korean Association of Chinese Language and Literature, Dongguk University, Republic of Korea.
 - Khoo, H. (2025.07). **The Integration of Traditional Chinese Philology and Western-style Language Textbooks: A Study on Chinese Character Learning Strategies in Herbert Giles' Chinese Classics: Synoptical Studies in Chinese Character**. 2025 The 7th International Conference on Cross-Cultural Chinese Character Studies, Hong Kong Shue Yan University, China.
 - Khoo, H. (2024.05). **A Study on the Digitalization Process of *Han-Dam-Gwan-Hwa* (漢談官話) and Transfer Processing of its Variant Characters**. 2024 Spring Conference of The Society For Chinese Language And Literature, University of Seoul, Republic of Korea.
 - Khoo, H. (2024.01). **The Representation of Chinese Images in Guido Vitale's Jest Book *Chinese Merry Tales***. 133th International Winter Conference of The Studies Of Chinese Literature, National University of Kaohsiung, Taiwan.
 - Khoo, H. (2023.08). **Westerners' Perceptions of the Sounds of Korean Characters in the 19th and Early 20th Centuries: Examples from Character Books, Dictionaries, and Textbooks**. The 5th International Symposium on Sino-Korean Linguistics, Renmin University of China, China.
 - Khoo, H. (2023.06). **On the translation of Thomas Wade *語言自邇集* TONE EXERCISES of *亞細亞言語集* 「平仄編」 and Its transcription in Japanese Chinese Dictionaries**. 2023 International Conference of The Society For Chinese Language And Literature, Jeju National University, Republic of Korea.
-- Khoo, H. (2022.01). **A Study on *Hanilseonmanshin* Dictionary by Lee Myung-chil in the Japanese colonial era: Focusing on its character and Chinese sound**. 2022 International Conference of The Society For Chinese Cultural Studies, Sookmyung Women's University, Republic of Korea.
 - Khoo, H. (2022.06). **A Study on methods of Data Collection and application for Optical Character Recognition of Chinese Character in ancient book**. 2022 Spring Conference of The Journal of Chinese Language & Literature, Online.
+- Khoo, H. (2022.01). **A Study on *Hanilseonmanshin* Dictionary by Lee Myung-chil in the Japanese colonial era: Focusing on its character and Chinese sound**. 2022 International Conference of The Society For Chinese Cultural Studies, Sookmyung Women's University, Republic of Korea.
 - Khoo, H., & Lee, O. (2021.11). **Korea's Spoken Chinese Textbooks from the Japanese Colonial Era: A Critical Review of the 'Manchu' Textbooks**. 14th Kyujanggak International Symposium on Korean Studies, Online.
 - Khoo, H. (2021.10). **A Study on English interpreted Chinese textbooks under the heading of Peking Dialect in the late Qing Dynasty and early Republic of China**. 8th East-West exchange literature Colloquia, Anyang University, Anyang, Republic of Korea.
 - Khoo, H. (2021.08). **A Study on tonal variation in Peking dialect textbook of late Qing and early Modern period**. 12th International Conference of International Association of Korean translation textbook, Online.
