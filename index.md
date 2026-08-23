@@ -19,7 +19,7 @@ I am Hyunah Khoo, a researcher in historical phonology. My research focuses on C
 | :------ | :-------------- | :---------- | :----: |
 | <u>Ph.D.</u> | **Chinese Philology** | Fudan University <br> (Shanghai, China) | 2012 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2008 |
 | <u>M.A.</u> | **Chinese Language and Literature** | Ewha Womans University <br> (Seoul, Korea) | 2008 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2005 |
-| <u>B.A.</u> | **Chinese Language and Literature** <br> <span style="color: gray; font-size: 0.85em;">Magna cum laude</span> | Ewha Womans University <br> (Seoul, Korea) | 2001 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2001 |
+| <u>B.A.</u> | **Chinese Language and Literature** <br> <span style="color: gray; font-size: 0.85em;">Magna cum laude</span> | Ewha Womans University <br> (Seoul, Korea) | 2001 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2001 |
 
 ### Non-Degree Education
 - **사서삼경(四書三經) 과정**, 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
