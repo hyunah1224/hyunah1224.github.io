@@ -83,8 +83,6 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 ## Projects
 
-## Projects
-
 ### As Principal Investigator
 
 - Eurasia Foundation (from Asia): **Asia in age of cultural convergence** ; Jul. 2025 - Jun. 2026 ; $18,000
@@ -100,7 +98,7 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 ### As Co-Investigator
 
-- National Research Foundation of Korea (Humanities and Social Sciences Research Institute Support Program): **Building a Database of Early Modern East Asian Language Materials Recorded in Hunminjeongeum** ; 2025 ; approx. $1,250,000
+- National Research Foundation of Korea (Humanities and Social Sciences Research Institute Support Research): **Building a Database of Early Modern East Asian Language Materials Recorded in Hunminjeongeum** ; 2025 ; approx. $1,250,000
 - Gwangju Cultural Foundation: **Asian Folktales and Myths Killer Content Development Project** ; 2024
 - National Research Foundation of Korea (Basic Research for the Humanities and Social Sciences, Collaborated Research): **Shifting the paradigm of research by Westerners: Chinese Studies by Modern Western Missionaries** ; Jun. 2023 - May 2026 ; $200,000
 
