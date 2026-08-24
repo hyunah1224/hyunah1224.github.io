@@ -32,10 +32,10 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 
 ## Academic Appointments
 
-- **Professor**, Hanyang University ; Sept. 2026 - Present
-- **Professor**, Yong In University ; Mar. 2013 - Aug. 2026
-- **Lecturer**, Dankook University ; Mar. 2018 - Aug. 2018, Sep. 2019 - Dec. 2019
-- **Lecturer**, Ewha Womans University ; Mar. 2012 - Dec. 2012
+- **Professor**, Hanyang University, Department of Chinese language and literature ; Sept. 2026 - Present
+- **Professor**, Yong In University, Yongoreum College ; Mar. 2013 - Aug. 2026
+- **Lecturer**, Dankook University, Graduate School, Department of Chinese language and literature ; Mar. 2018 - Aug. 2018, Sep. 2019 - Dec. 2019
+- **Lecturer**, Ewha Womans University, Department of Chinese language and literature ; Mar. 2012 - Dec. 2012
 - **Lecturer**, Korean Language Institute, Yonsei University ; Mar. 2008 - Aug. 2008
 
 
