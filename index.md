@@ -118,7 +118,7 @@ I am Hyunah Khoo, a researcher in Chinese historical phonology. My research focu
 ### Datasets and Models
 
 1. **Asian Languages DB**
-   - **Asian Languages DB**: Khoo, H. **A search database for phonological information in Chinese-language textbooks and dictionaries compiled in Korea, China, and Japan** [Database]. <a href="https://www.asialang.org" target="_blank">https://www.asialang.org</a>
+   - **Asian Languages DB**: Khoo, H. **A search database for phonological information in Chinese-language textbooks and dictionaries compiled in Korea, China, and Japan** [Database]. <a href="http://www.asialang.org" target="_blank">http://www.asialang.org</a>
 2. **SINOLOGY**
    - **SINOLOGY**: Khoo, H., Shin, W., & Roh, H. **A search database for phonological information in Chinese-language textbooks and dictionaries compiled by Westerners** [Database]. <a href="https://sinologie.mycafe24.com" target="_blank">https://sinologie.mycafe24.com</a>
 
