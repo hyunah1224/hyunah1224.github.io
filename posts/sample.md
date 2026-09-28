@@ -6,6 +6,13 @@ date: 2026-08-24
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>
 
+## 2026.9.17 천쉐 작가 포럼
+
+한양대 온 덕분에 현대문학 작가를 만날 수 있었다. 천쉐가 조곤조곤하게 자신의 글쓰기와 인생에 대해 말하는 점이 인상적이었다.
+生命有光 "삶에는 빛이 있다." 라고 사인도 받았다.
+![학회장](../assets/img/chenxue1.jpg)
+![학회장](../assets/img/chengxue2.jpg)
+
 ## 2026.8.26 한양대로 이사왔어요
 
 2026년 8월 26일 용인대 짐을 모두 빼서, 한양대 인문관 (508) 432호로 이사왔다.
